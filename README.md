@@ -8,9 +8,15 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TomasIvan1&show_icons=true&theme=radical)
 
+⚠️ Deployment paused: 503 SERVICE_UNAVAILABLE  
+The stats service is temporarily stopped. Will resume once deployment is active again.
+
 ## 📝 Top Languages
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasIvan1&layout=compact&theme=radical&hide=html,css)
+
+⚠️ Deployment paused: 503 SERVICE_UNAVAILABLE  
+Top languages stats are temporarily unavailable. Will resume once deployment is active again.
 
 ---
 
